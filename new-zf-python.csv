@@ -1,3 +1,4 @@
+version,payload,msgs,value,unit
 zenoh-flow-python,8000000,60,26670826,ns
 zenoh-flow-python,8000000,60,16871135,ns
 zenoh-flow-python,8000000,60,17986551,ns
